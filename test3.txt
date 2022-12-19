@@ -1,0 +1,3 @@
+3
+Creating software is like engineering: if a crucial part breaks, everything fails. How can we prevent such a disaster? Of course, we can test our programs, but is it sufficient? A program that passes all the tests might still have other problems
+
